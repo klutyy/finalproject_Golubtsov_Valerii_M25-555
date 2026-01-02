@@ -1,0 +1,8 @@
+.venv
+dist/
+# Системные файлы macOS
+._*
+__pycache__/
+*.pyc
+.idea/
+*.cast
