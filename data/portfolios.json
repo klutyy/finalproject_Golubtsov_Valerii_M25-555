@@ -1,0 +1,35 @@
+[
+  {
+    "user_id": 1,
+    "wallets": {
+      "BTC": {
+        "balance": 0.03
+      },
+      "USD": {
+        "balance": 906.33
+      }
+    }
+  },
+  {
+    "user_id": 2,
+    "wallets": {
+      "BTC": {
+        "balance": 1.01
+      },
+      "USD": {
+        "balance": -90540.0
+      }
+    }
+  },
+  {
+    "user_id": 3,
+    "wallets": {
+      "BTC": {
+        "balance": 0.0
+      },
+      "USD": {
+        "balance": 905.4
+      }
+    }
+  }
+]
